@@ -8,5 +8,6 @@ media
 .pytest_cache/
 
 .venv
+.env
 
 .vscode/* 
